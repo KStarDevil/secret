@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "390465002545",
+    "firebase_url": "https://ykko-b3587.firebaseio.com",
+    "project_id": "ykko-b3587",
+    "storage_bucket": "ykko-b3587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390465002545:android:f1d4827fac033a78634910",
+        "android_client_info": {
+          "package_name": "com.ykko.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390465002545-6oas7m3p6ndo8moh92lvudk5cjk7vvah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ykko.app",
+            "certificate_hash": "a5de54f1469a3fe2eec95ea2ea341a9de65452bb"
+          }
+        },
+        {
+          "client_id": "390465002545-4d85c3ceovc034b9savpdn2apijmsauh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8vHiolCYExoKBJRtbCyotTNFpvqTMHm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390465002545-4d85c3ceovc034b9savpdn2apijmsauh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

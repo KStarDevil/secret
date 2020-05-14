@@ -1,0 +1,746 @@
+[
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit_blue_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_edit_blue_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visibility.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hc_1.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\hc_1.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shop.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\shop.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ykko_logo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\ykko_logo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_money.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\money.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_kyay_oh.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\kyay_oh.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_feedback_photo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\feedback_photo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_food.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\food.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_white_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_home_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_admin_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\nav_header_admin_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visibility.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_reservation.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_reservation.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_shop.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\shop.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\font_arial_black.ttf.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\font\\arial_black.ttf"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_food.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\food.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ramen.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\ramen.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\btn_rounded.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visibility_2.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_visibility_2.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_users.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\users.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_money.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\money.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ykko_logo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\ykko_logo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_picker.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\btn_picker.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ykko_bg.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\ykko_bg.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visibility_2.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\ic_visibility_2.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_circle.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\btn_circle.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visibility.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_reservation_posts_row.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\admin_reservation_posts_row.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ramen.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\ramen.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_kyay_oh.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\kyay_oh.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_room_service_white_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_room_service_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hc3.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\hc3.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visibility_2.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\ic_visibility_2.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_reservation_posts_row.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\reservation_posts_row.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ykko_bg.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\ykko_bg.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_food_stick.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\food_stick.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_home_drawer.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tag_faces_white_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_tag_faces_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visibility.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\ic_visibility.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_vert_green_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_more_vert_green_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hc3.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\hc3.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\font_raleway_medium.ttf.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\font\\raleway_medium.ttf"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visibility_2.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\ic_visibility_2.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_food_stick.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\food_stick.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ykko_bg.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\ykko_bg.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visibility_24px.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_visibility_24px.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_restaurant_white_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_restaurant_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_feedback_photo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\feedback_photo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hc_1.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\hc_1.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_reserved.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_reserved.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\font_arial_bold.ttf.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\font\\arial_bold.ttf"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hc3.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\hc3.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admin_food_detail.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_admin_food_detail.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\font_raleway_extrabold.ttf.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\font\\raleway_extrabold.ttf"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_feedback_photo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\feedback_photo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_shop.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\shop.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_foodmenu_posts_row.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\admin_foodmenu_posts_row.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hc3.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\hc3.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_feedback_photo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\feedback_photo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_money.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\money.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ramen.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\ramen.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_edit_food_menu.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_edit_food_menu.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kyay_oh.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\kyay_oh.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_food.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\food.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_review_posts_row.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\admin_review_posts_row.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visibility_24px.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\ic_visibility_24px.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admin_reservation_details.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_admin_reservation_details.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kyay_oh.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\kyay_oh.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_users.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\users.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_admin_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\app_bar_admin_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_money.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\money.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ykko_logo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\ykko_logo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_users.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\users.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shop.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\shop.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_food.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\food.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_food_stick.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\food_stick.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ramen.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\ramen.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_customer_login.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\customer_login.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visibility_2.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_visibility_2.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_users.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\users.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded_red.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\btn_rounded_red.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hc_1.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\hc_1.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_phone.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hc_1.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\hc_1.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\font_font_family.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\font\\font_family.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_menu.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_add_menu.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admin_food_menu.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_admin_food_menu.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ykko_logo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\ykko_logo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_login.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_branches.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_branches.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_feedback.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ramen.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\ramen.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hc3.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\hc3.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_money.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\money.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_confirm_order.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_confirm_order.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admin_review.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_admin_review.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_red_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_delete_red_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_admin_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\content_admin_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visibility_24px.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\ic_visibility_24px.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_feedback_photo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\feedback_photo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_on_white_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_location_on_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visibility_2.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\ic_visibility_2.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_money.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\money.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shop.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\shop.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_phone.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_edit_rounded.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\login_edit_rounded.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phone.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_food.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\food.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visibility.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admin_reservation.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_admin_reservation.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ykko_bg.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\ykko_bg.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hc_1.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\hc_1.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_admin_reservation_list_posts_view.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\admin_reservation_list_posts_view.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ykko_logo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\ykko_logo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\font_raleway_semibold.ttf.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\font\\raleway_semibold.ttf"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_admin_home_drawer.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\menu\\activity_admin_home_drawer.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ykko_bg.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\ykko_bg.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_food_stick.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\food_stick.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visibility_24px.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_visibility_24px.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hc_1.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\hc_1.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_table_reservation.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_table_reservation.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_black_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_food.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\food.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_regular.ttf.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_white_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_feedback_photo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\feedback_photo.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_shop.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\shop.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_food_stick.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\food_stick.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_foodmenu_posts_row.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\foodmenu_posts_row.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_kyay_oh.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-ldpi\\kyay_oh.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_food_menu.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_food_menu.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera_alt_green_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_camera_alt_green_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\activity_admin_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ramen.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\ramen.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hc3.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\hc3.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_visitor_popular_posts_row.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\visitor_popular_posts_row.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_admin_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_admin_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_food_stick.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\food_stick.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_phone.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visibility_24px.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-hdpi\\ic_visibility_24px.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_users.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\users.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visibility_24px.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\ic_visibility_24px.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_phone.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ykko_bg.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\ykko_bg.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_visitor_all_posts_row.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\visitor_all_posts_row.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kyay_oh.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-mdpi\\kyay_oh.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_visitor_home.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\layout\\fragment_visitor_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\navigation_admin_mobile_navigation.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\navigation\\admin_mobile_navigation.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visibility.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xhdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded_white.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\btn_rounded_white.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_rounded.xml.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable\\edit_rounded.xml"
+    },
+    {
+        "merged": "F:\\Project\\YKKO\\ykko_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ykko_logo.png.flat",
+        "source": "F:\\Project\\YKKO\\ykko_app\\app\\src\\main\\res\\drawable-xxxhdpi\\ykko_logo.png"
+    }
+]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="20dp"
+    android:orientation="horizontal"
+    >
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="9"
+        android:orientation="vertical">
+        <LinearLayout
+            android:paddingVertical="10dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/admin_reviewer_name"
+                android:layout_width="130dp"
+                android:textAlignment="textStart"
+                android:textColor="@android:color/black"
+                android:layout_height="wrap_content"/>
+            <RatingBar
+                android:id="@+id/admin_reviewer_rating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@android:style/Widget.Material.RatingBar.Small"/>
+
+
+        </LinearLayout>
+        <TextView
+            android:paddingVertical="10dp"
+            android:id="@+id/admin_reviewer_comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <ImageButton
+            android:translationZ="2dp"
+            android:id="@+id/admin_review_del_btn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/white"
+            android:elevation="2dp"
+            android:src="@drawable/ic_delete_red_24dp" />
+    </LinearLayout>
+</LinearLayout>

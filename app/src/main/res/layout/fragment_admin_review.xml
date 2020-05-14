@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.admin_review.AdminReviewFragment">
+
+    <TextView
+        android:layout_marginVertical="@dimen/dp_15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Customers' Review "
+        android:textSize="17dp"
+        android:fontFamily="@font/raleway_semibold"
+        android:textColor="@android:color/black"/>
+
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="@dimen/dp_10"
+        android:elevation="@dimen/dp_10"
+        android:outlineAmbientShadowColor="@color/themeColor"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/admin_review_posts_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

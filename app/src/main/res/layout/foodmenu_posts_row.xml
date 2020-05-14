@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginVertical="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:orientation="horizontal">
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:padding="40dp"
+            app:cardCornerRadius="5dp">
+            <ImageView
+                android:id="@+id/visitor_image_view"
+                android:scaleType="center"
+                android:layout_width="156dp"
+                android:layout_height="115dp"/>
+        </androidx.cardview.widget.CardView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/food_stick_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="5dp"
+                android:textSize="17dp"
+                android:fontFamily="@font/raleway_semibold"/>
+
+            <TextView
+                android:id="@+id/food_stick_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="13dp"
+                android:textColor="@android:color/darker_gray"
+                android:fontFamily="@font/raleway_semibold"/>
+
+            <TextView
+                android:id="@+id/food_stick_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="4dp"
+                android:textSize="13dp"
+                android:fontFamily="@font/arial_black"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="4dp"
+                android:text="Available in all branches"
+                android:textSize="13dp"
+                android:fontFamily="@font/arial_black"/>
+
+            <Button
+                android:id="@+id/reserve_btn"
+                android:layout_width="130dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="12dp"
+                android:layout_gravity="bottom"
+                style="@style/ykkoButton"
+                android:text="RESERVE"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

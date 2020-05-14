@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.confirm_order.ConfirmOrderFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirm Your Order"
+        android:textSize="22dp"
+        android:textColor="@color/themeColor"
+        android:fontFamily="@font/raleway_semibold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.006"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="Please confirm your orders here"
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.044"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="112dp"
+        android:paddingHorizontal="50dp"
+        android:paddingTop="50dp"
+        android:paddingBottom="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+       <LinearLayout
+           android:orientation="vertical"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:paddingTop="40dp">
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:paddingVertical="@dimen/confirm_text_padding"
+               android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="@dimen/confirm_text_width"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:text="Name:"
+                   android:textSize="13dp"
+                   android:textAlignment="textEnd"/>
+
+               <TextView
+                   android:id="@+id/confirm_name"
+                   android:layout_marginLeft="@dimen/confirm_text_margin"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:textColor="@color/themeColor"
+                   android:textSize="13dp"/>
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:paddingVertical="@dimen/confirm_text_padding"
+               android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="@dimen/confirm_text_width"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:text="Phone Number:"
+                   android:textSize="13dp"
+                   android:textAlignment="textEnd"/>
+
+               <TextView
+                   android:id="@+id/confirm_phNo"
+                   android:layout_marginLeft="@dimen/confirm_text_margin"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:textColor="@color/themeColor"
+                   android:textSize="13dp"/>
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:paddingVertical="@dimen/confirm_text_padding"
+               android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="@dimen/confirm_text_width"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:text="Township:"
+                   android:textSize="13dp"
+                   android:textAlignment="viewEnd"/>
+               <TextView
+                   android:id="@+id/confirm_township"
+                   android:layout_marginLeft="@dimen/confirm_text_margin"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:textColor="@color/themeColor"
+                   android:textSize="13dp" />
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:paddingVertical="@dimen/confirm_text_padding"
+               android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="@dimen/confirm_text_width"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:text="Branch:"
+                   android:textSize="13dp"
+                   android:textAlignment="textEnd"/>
+               <TextView
+                   android:id="@+id/confirm_branch"
+                   android:layout_marginLeft="@dimen/confirm_text_margin"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:textColor="@color/themeColor"
+                   android:textSize="13dp" />
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:paddingVertical="@dimen/confirm_text_padding"
+               android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="@dimen/confirm_text_width"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:text="Date:"
+                   android:textSize="13dp"
+                   android:textAlignment="textEnd"/>
+               <TextView
+                   android:id="@+id/confirm_date"
+                   android:layout_marginLeft="@dimen/confirm_text_margin"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:textColor="@color/themeColor"
+                   android:textSize="13dp" />
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:paddingVertical="@dimen/confirm_text_padding"
+               android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="@dimen/confirm_text_width"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:text="Number Of Persons:"
+                   android:textAlignment="textEnd"
+                   android:textSize="13dp"/>
+               <TextView
+                   android:id="@+id/confirm_noOfPerson"
+                   android:layout_marginLeft="@dimen/confirm_text_margin"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:textColor="@color/themeColor"
+                   android:textSize="13dp" />
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:paddingVertical="@dimen/confirm_text_padding"
+               android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="@dimen/confirm_text_width"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:text="Food :"
+                   android:textAlignment="textEnd"
+                   android:textSize="13dp" />
+               <TextView
+                   android:id="@+id/confirm_food1"
+                   android:layout_marginLeft="@dimen/confirm_text_margin"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:textColor="@color/themeColor"
+                   android:textSize="13dp" />
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:orientation="horizontal"
+               android:paddingVertical="@dimen/confirm_text_padding"
+               android:visibility="gone">
+
+               <TextView
+                   android:layout_width="@dimen/confirm_text_width"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:text="Food 2:"
+                   android:textAlignment="textEnd"
+                   android:textSize="13dp"
+                   android:visibility="visible" />
+
+               <TextView
+                   android:id="@+id/confirm_food2"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginLeft="@dimen/confirm_text_margin"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:textColor="@color/themeColor"
+                   android:textSize="13dp" />
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:paddingVertical="@dimen/confirm_text_padding"
+               android:orientation="horizontal">
+
+               <TextView
+                   android:layout_width="@dimen/confirm_text_width"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:text="Description:"
+                   android:textAlignment="textEnd"
+                   android:textSize="13dp" />
+               <TextView
+                   android:id="@+id/confirm_des"
+                   android:layout_marginLeft="@dimen/confirm_text_margin"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:fontFamily="@font/montserrat_regular"
+                   android:textColor="@color/themeColor"
+                   android:textSize="13dp" />
+
+           </LinearLayout>
+       </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="430dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/cancel_confirm_btn"
+            style="@style/ykkoButtonWhite"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:text="CANCEL" />
+
+        <Button
+            android:id="@+id/confirm_table_btn"
+            style="@style/ykkoButton"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:text="CONFIRM" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

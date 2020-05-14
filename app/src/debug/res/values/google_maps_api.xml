@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A5:DE:54:F1:46:9A:3F:E2:EE:C9:5E:A2:EA:34:1A:9D:E6:54:52:BB%3Bcom.ykko.app.ui.egmap
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.ykko.app.ui.egmap
+
+    SHA-1 certificate fingerprint:
+    A5:DE:54:F1:46:9A:3F:E2:EE:C9:5E:A2:EA:34:1A:9D:E6:54:52:BB
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBES9lrxfZEqZwyHKakEbcpkakJL7V0xW4</string>
+</resources>

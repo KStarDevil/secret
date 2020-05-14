@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="20dp"
+    tools:context=".ui.table.TableReseravationFragment"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reserve For Table"
+            android:textSize="22dp"
+            android:textColor="@color/themeColor"
+            android:fontFamily="@font/raleway_semibold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="36dp"
+            android:text="You have to fill all the following information"
+            android:textSize="15dp"/>
+
+        <com.google.android.material.textfield.TextInputEditText
+            style="@style/customEditTextStyle"
+            android:id="@+id/reserve_name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="88dp"
+            android:hint="Enter Name"
+            android:outlineProvider="none"/>
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/reserve_phNo"
+            style="@style/customEditTextStyle"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="156dp"
+            android:hint="Enter Phone Number"
+            android:outlineProvider="none" />
+
+        <com.dev.materialspinner.MaterialSpinner
+            android:id="@+id/township_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="216dp"/>
+
+        <com.dev.materialspinner.MaterialSpinner
+            android:id="@+id/branches_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="284dp"
+            android:requiresFadingEdge="none"
+            android:textSize="5dp"
+            android:fontFamily="@font/raleway_semibold"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="370dp"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/datePickerBtn"
+                style="@style/reservePickerButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:layout_marginRight="20dp"
+                android:text="Select Date"/>
+            <Button
+                android:id="@+id/timePickerBtn"
+                style="@style/reservePickerButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:text="Select Time" />
+
+        </LinearLayout>
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/noOfPersons"
+            style="@style/customEditTextStyle"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="430dp"
+            android:hint="Enter Number Of Persons"
+            android:outlineProvider="none" />
+
+        <com.dev.materialspinner.MaterialSpinner
+            android:id="@+id/food1_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="490dp"
+            android:requiresFadingEdge="none"
+            android:textSize="5dp"
+            android:fontFamily="@font/raleway_semibold"/>
+
+        <com.dev.materialspinner.MaterialSpinner
+            android:id="@+id/food2_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="9dp"
+            android:layout_marginTop="560dp"
+            android:fontFamily="@font/raleway_semibold"
+            android:requiresFadingEdge="none"
+            android:textSize="5dp"
+            android:visibility="invisible" />
+
+        <LinearLayout
+            android:id="@+id/more_food_menu"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/food2_spinner"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"></LinearLayout>
+
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/food_des"
+            style="@style/customEditTextStyle"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/more_food_menu"
+            android:layout_marginTop="77dp"
+            android:hint="Enter Description"
+            android:outlineProvider="none" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/food_des"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/cancel_table_btn"
+                style="@style/ykkoButtonWhite"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_weight="5"
+                android:text="CANCEL" />
+
+            <Button
+                android:id="@+id/reserve_table_btn"
+                style="@style/ykkoButton"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_weight="5"
+                android:text="RESERVE" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/add_new_food_btn"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="wrap_content"
+            android:layout_height="144dp"
+            android:layout_above="@+id/food_des"
+            android:layout_below="@+id/more_food_menu"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="-65dp"
+            android:text="+ Add New Food" />
+    </RelativeLayout>
+</ScrollView>

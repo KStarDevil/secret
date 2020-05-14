@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/admin_mobile_navigation"
+    app:startDestination="@+id/nav_admin_home">
+
+    <fragment
+        android:id="@+id/nav_admin_home"
+        android:name="com.ykko.app.ui.admin_home.AdminHomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_admin_home" />
+
+    <fragment
+        android:id="@+id/nav_admin_reservation"
+        android:name="com.ykko.app.ui.admin_reservations.AdminReservationFragment"
+        android:label="Reservations"
+        tools:layout="@layout/fragment_admin_reservation" />
+
+    <fragment
+        android:id="@+id/nav_admin_food_menu"
+        android:name="com.ykko.app.ui.admin_food_menu.AdminFoodMenuFragment"
+        android:label="Food Lists"
+        tools:layout="@layout/fragment_admin_food_menu" />
+
+    <fragment
+        android:id="@+id/nav_admin_review"
+        android:name="com.ykko.app.ui.admin_review.AdminReviewFragment"
+        android:label="Reviews"
+        tools:layout="@layout/fragment_admin_review" />
+
+    <fragment
+        android:id="@+id/nav_admin_add_menu"
+        android:name="com.ykko.app.ui.admin_add_menu.AddMenuFragment"
+        android:label="Add Food"
+        tools:layout="@layout/fragment_add_menu" />
+
+    <fragment
+        android:id="@+id/nav_admin_edit_menu"
+        android:name="com.ykko.app.ui.admin_edit_menu.EditFoodMenuFragment"
+        android:label="Edit Food"
+        tools:layout="@layout/fragment_add_menu" />
+
+    <fragment
+        android:id="@+id/nav_admin_reservation_detail"
+        android:name="com.ykko.app.ui.admin_reservations_details.AdminReservationDetailsFragment"
+        android:label="Reservation Details"
+        tools:layout="@layout/fragment_admin_reservation_details" />
+
+    <fragment
+        android:id="@+id/nav_admin_food_detail"
+        android:name="com.ykko.app.ui.admin_food_detail.AdminFoodDetailFragment"
+        android:label="Food Details"
+        tools:layout="@layout/fragment_admin_food_detail" />
+
+
+</navigation>

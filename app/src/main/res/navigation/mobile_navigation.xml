@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.ykko.app.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_visitor_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.ykko.app.ui.gallery.GalleryFragment"
+        android:label="My Order"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_reservation"
+        android:name="com.ykko.app.ui.reservation.ReservationFragment"
+        android:label="Reservation"
+        tools:layout="@layout/fragment_reservation"/>
+
+    <fragment
+        android:id="@+id/nav_branches"
+        android:name="com.ykko.app.ui.branches.BranchesFragment"
+        android:label="Branches"
+        tools:layout="@layout/fragment_branches"/>
+
+    <fragment
+        android:id="@+id/nav_food_menu"
+        android:name="com.ykko.app.ui.food_menu.FoodMenuFragment"
+        android:label="Food Menu"
+        tools:layout="@layout/fragment_food_menu"/>
+
+    <fragment
+        android:id="@+id/nav_feedback"
+        android:name="com.ykko.app.ui.feedback.FeedBackFragment"
+        android:label="Feedback"
+        tools:layout="@layout/fragment_feedback"/>
+
+    <fragment
+        android:id="@+id/nav_table_reservation"
+        android:name="com.ykko.app.ui.table.TableReseravationFragment"
+        android:label="Table Reservation"
+        tools:layout="@layout/fragment_table_reservation"/>
+
+    <fragment
+        android:id="@+id/nav_confirm_order"
+        android:name="com.ykko.app.ui.confirm_order.ConfirmOrderFragment"
+        android:label="Confirm Order"
+        tools:layout="@layout/fragment_confirm_order"/>
+
+    <fragment
+        android:id="@+id/nav_reserved"
+        android:name="com.ykko.app.ui.reserved.ReservedFragment"
+        android:label="Reserved"
+        tools:layout="@layout/fragment_reserved"/>
+
+</navigation>
